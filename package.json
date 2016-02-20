@@ -1,0 +1,19 @@
+{
+  "name": "gol-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "webpack-test": "webpack --config=webpack-test.config.js --output-file='bundle.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.11",
+    "jasmine": "^2.3.1",
+    "jasmine-core": "^2.4.1",
+    "jasmine-webpack-plugin": "^0.1.1",
+    "jasmine-node-debug": "^0.1.1"
+  }
+}
