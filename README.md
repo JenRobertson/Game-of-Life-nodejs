@@ -7,4 +7,9 @@ Written by Jenny Robertson
 - All cells outside the given grid are empty.
 
 The code can be tested by running command:
+
+```npm install```
+
+then
+
 ```npm test```
