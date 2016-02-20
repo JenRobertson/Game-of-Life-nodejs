@@ -6,6 +6,7 @@ Written by Jenny Robertson
 ##Assumptions made##
 - All cells outside the given grid are empty.
 
+##Testing
 The code can be tested by running command:
 
 ```npm install```
